@@ -1,2 +1,2 @@
 # azure-CV
-Azure CV, following ACG video
+My own Azure project CV, following ACG video
